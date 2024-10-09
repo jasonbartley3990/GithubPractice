@@ -14,11 +14,11 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            
+            Text("GITHUB PRACTICE")
+            
+            Text("Next commit on this text")
         }
         .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
